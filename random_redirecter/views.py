@@ -5,11 +5,11 @@ from flask import Flask, redirect
 app = Flask(__name__)
 
 REDIRECT_URLS = [
-    'https://www.loop11.com/usertest/39566/',
-    'https://www.loop11.com/usertest/39564/',
-    'https://www.loop11.com/usertest/39563/',
-    'https://www.loop11.com/usertest/39559/',
-    'https://www.loop11.com/usertest/39500/',
+    'https://www.loop11.com/usertest/39581/',
+    'https://www.loop11.com/usertest/39582/',
+    'https://www.loop11.com/usertest/39583/',
+    'https://www.loop11.com/usertest/39584/',
+    'https://www.loop11.com/usertest/39585/',
 ]
 
 
